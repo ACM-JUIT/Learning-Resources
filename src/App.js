@@ -1,6 +1,6 @@
 import './App.css';
 import Member from './components/members/member'
-import { membersData } from "./data";
+import { resourcesData } from "./data";
 
 function App() {
   return (
@@ -15,7 +15,7 @@ function App() {
         <p className="second-title">Go ahead, add your fav resources</p></h1>
       </div>
       <div className="members">
-      {membersData.map((data, key) => {
+      {resourcesData.map((data, key) => {
           return (
             <div key={key}>
               <Member

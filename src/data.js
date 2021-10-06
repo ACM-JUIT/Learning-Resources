@@ -1,4 +1,4 @@
-export const membersData = [
+export const resourcesData = [
     {
       courseName: "Aarhan Khan",
       brief: "developer of this site",
