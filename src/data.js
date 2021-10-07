@@ -3,7 +3,12 @@ export const resourcesData = [
       courseName: "Aarhan Khan",
       brief: "developer of this site",
       link: "https://www.instagram.com/aarhan_._/",
-    },
+    },  
+    {
+      courseName: "C++ by CodeWithHarry",
+      brief: "C++ Basic Programming",
+      link: "https://www.codewithharry.com/videos/cpp-tutorials-in-hindi-1",
+    },  
     {
       courseName: "The Complete 2021 Web Development Bootcamp",
       brief: "Become a full-stack web developer with just one course. HTML, CSS, Javascript, Node, React, MongoDB and more!",
