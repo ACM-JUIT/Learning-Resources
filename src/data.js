@@ -3,7 +3,12 @@ export const resourcesData = [
       courseName: "Aarhan Khan",
       brief: "developer of this site",
       link: "https://www.instagram.com/aarhan_._/",
-    },  
+    },
+    {
+      courseName: "x",
+      brief: "hello world",
+      link: "https://www.tensorflow.org/",
+    },     
     {
       courseName: "Learn program to print characters without using format specifiers",
       brief: "use C language and learn to print.",
