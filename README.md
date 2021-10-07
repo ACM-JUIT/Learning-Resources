@@ -8,7 +8,7 @@
 2. Make changes to the code on that branch, add your details in data.js like below and commit.
     ```
     {
-      courseName: "Javascript cource",
+      courseName: "Javascript course",
       brief: "From basic JS to advance",
       link: "course_link",
     },
