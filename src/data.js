@@ -40,6 +40,11 @@ export const resourcesData = [
       link: "https://www.instagram.com/sub_savage/",
     },   
     {
+      courseName: "Django",
+      brief: "Beginner friendly Django courses",
+      link: "https://www.youtube.com/c/DennisIvy",
+    },   
+  {
       courseName: "C tutorials for beginners",
       brief: "C Programming Basics and Fundamentals",
       link: "https://www.youtube.com/playlist?list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR",
