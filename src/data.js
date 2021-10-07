@@ -33,5 +33,10 @@ export const resourcesData = [
       courseName: "Android Studio",
       brief: "Android studio tutorial for beginner",
       link: "https://www.youtube.com/playlist?list=PLu0W_9lII9aiL0kysYlfSOUgY5rNlOhUd",
-    },   
+    },
+    {
+      courseName : "Learn Python - Full Course for Beginners [Tutorial]",
+      brief: "This beginner-friendly course will teach you the basics of Python programming.",
+      link: "https://www.youtube.com/watch?v=rfscVS0vtbw&t=13720s&ab_channel=freeCodeCamp.org",
+    },
   ];
