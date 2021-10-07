@@ -5,6 +5,11 @@ export const resourcesData = [
       link: "https://www.instagram.com/aarhan_._/",
     },
     {
+      courseName: "Docs Docs Docs",
+      brief: "docs docs docs docs docs docs docs",
+      link: "",
+    },
+    {
       courseName: "x",
       brief: "hello world",
       link: "https://www.tensorflow.org/",
