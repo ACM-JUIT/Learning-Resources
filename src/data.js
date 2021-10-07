@@ -10,6 +10,11 @@ export const resourcesData = [
       link: "https://www.tensorflow.org/",
     },     
     {
+      courseName: "Python- roadmap to AI and ML",
+      brief: "Python from basic to advance level and later diving into AI and ML",
+      link: "https://www.instagram.com/_shubh.28/",
+    },  
+    {
       courseName: "Learn program to print characters without using format specifiers",
       brief: "use C language and learn to print.",
       link: "https://www.geeksforgeeks.org/c-program-print-characters-without-using-format-specifiers/",
