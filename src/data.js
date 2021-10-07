@@ -35,6 +35,11 @@ export const resourcesData = [
       link: "https://www.youtube.com/playlist?list=PLu0W_9lII9aiL0kysYlfSOUgY5rNlOhUd",
     },   
     {
+      courseName: "C tutorials for beginners",
+      brief: "C Programming Basics and Fundamentals",
+      link: "https://www.youtube.com/playlist?list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR",
+    },
+    {
       courseName: "JAVA+DSA Bootcamp",
       brief: "Bootcamp for interview preparation",
       link: "https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ",
