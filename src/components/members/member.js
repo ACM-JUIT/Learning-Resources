@@ -9,7 +9,7 @@ export default function member({ courseName, brief, link }) {
     <div class="contentBx">
       <h2>{courseName}</h2>
       <div class="size">
-      <h2 style={{fontSize:"1vw"}}>{brief}</h2>
+      <h2 style={{fontSize:"0.3vw"}}>{brief}</h2>
       </div>
       <a href={link}>brrrr</a>
     </div>
