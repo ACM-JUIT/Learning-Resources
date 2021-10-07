@@ -34,4 +34,8 @@ export const resourcesData = [
       brief: "Android studio tutorial for beginner",
       link: "https://www.youtube.com/playlist?list=PLu0W_9lII9aiL0kysYlfSOUgY5rNlOhUd",
     },   
-  ];
+   {
+      courseName: "Everything about c",
+      brief: "from basic to advance",
+      link: "https://www.youtube.com/watch?v=ZSPZob_1TOk"},
+    ];
