@@ -9,4 +9,10 @@ export const resourcesData = [
       brief: "Become a full-stack web developer with just one course. HTML, CSS, Javascript, Node, React, MongoDB and more!",
       link: "https://www.udemy.com/course/the-complete-web-development-bootcamp/",
     },  
+    }, 
+    {
+      courseName: "Android Studio",
+      brief: "Android studio tutorial for beginner",
+      link: "https://www.youtube.com/playlist?list=PLu0W_9lII9aiL0kysYlfSOUgY5rNlOhUd",
+    },   
   ];
