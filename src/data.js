@@ -34,4 +34,9 @@ export const resourcesData = [
       brief: "Android studio tutorial for beginner",
       link: "https://www.youtube.com/playlist?list=PLu0W_9lII9aiL0kysYlfSOUgY5rNlOhUd",
     },   
+    {
+      courseName: "Harvard- CS50's Introduction to Computer Science",
+      brief: "Harvard University's introduction to the intellectual enterprises of computer science and the art of programming for majors and non-majors alike, with or without prior programming experience. An entry-level course taught by David J. Malan",
+      link: "https://www.edx.org/course/introduction-computer-science-harvardx-cs50x",
+    },   
   ];
