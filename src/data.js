@@ -8,8 +8,7 @@ export const resourcesData = [
       courseName: "The Complete 2021 Web Development Bootcamp",
       brief: "Become a full-stack web developer with just one course. HTML, CSS, Javascript, Node, React, MongoDB and more!",
       link: "https://www.udemy.com/course/the-complete-web-development-bootcamp/",
-    },  
-    }, 
+    },   
     {
       courseName: "Android Studio",
       brief: "Android studio tutorial for beginner",
