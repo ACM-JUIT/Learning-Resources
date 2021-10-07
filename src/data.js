@@ -39,6 +39,11 @@ export const resourcesData = [
       brief: "Learn C language and become a software developer",
       link: "https://www.programiz.com/c-programming",
     },   
+   {
+      courseName: "Everything about c",
+      brief: "from basic to advance",
+      link: "https://www.youtube.com/watch?v=ZSPZob_1TOk",
+   },
     {
       courseName: "Android Devlopment",
       brief: "Android studio tutorial for beginner",
