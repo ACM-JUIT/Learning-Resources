@@ -5,6 +5,11 @@ export const resourcesData = [
       link: "https://www.instagram.com/aarhan_._/",
     },  
     {
+      courseName: "Learn program to print characters without using format specifiers",
+      brief: "use C language and learn to print.",
+      link: "https://www.geeksforgeeks.org/c-program-print-characters-without-using-format-specifiers/",
+    },
+    {
       courseName: "C++ by CodeWithHarry",
       brief: "C++ Basic Programming",
       link: "https://www.codewithharry.com/videos/cpp-tutorials-in-hindi-1",
