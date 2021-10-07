@@ -79,4 +79,9 @@ export const resourcesData = [
       brief: "This beginner-friendly course will teach you the basics of Python programming.",
       link: "https://www.youtube.com/watch?v=rfscVS0vtbw&t=13720s&ab_channel=freeCodeCamp.org",
     },
+    {
+      courseName: "Game Development Courses",
+      brief: "This site teach you basic of game development and things req. to learn . You also take more knowledge in other fields of gaming.",
+      link: "https://www.futurelearn.com/subjects/it-and-computer-science-courses/game-development",
+    },
   ];
