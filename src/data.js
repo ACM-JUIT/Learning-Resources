@@ -33,6 +33,11 @@ export const resourcesData = [
       courseName: "Android Studio",
       brief: "Android studio tutorial for beginner",
       link: "https://www.youtube.com/playlist?list=PLu0W_9lII9aiL0kysYlfSOUgY5rNlOhUd",
+    },   
+    {
+      courseName: "Android Devlopment",
+      brief: "Android studio tutorial for beginner",
+      link: "https://www.youtube.com/playlist?list=PLu0W_9lII9aiL0kysYlfSOUgY5rNlOhUd",
     },
    {
       courseName: "Editing in Premiere",
