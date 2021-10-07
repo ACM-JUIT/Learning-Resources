@@ -33,5 +33,10 @@ export const resourcesData = [
       courseName: "Android Studio",
       brief: "Android studio tutorial for beginner",
       link: "https://www.youtube.com/playlist?list=PLu0W_9lII9aiL0kysYlfSOUgY5rNlOhUd",
+    }, 
+{
+      courseName: "Learn C Programming",
+      brief: "Learn C language and become a software developer",
+      link: "https://www.programiz.com/c-programming",
     },   
   ];
