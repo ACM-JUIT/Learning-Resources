@@ -83,5 +83,10 @@ export const resourcesData = [
       courseName: "Harvard- CS50's Introduction to Computer Science",
       brief: "Harvard University's introduction to the intellectual enterprises of computer science and the art of programming for majors and non-majors alike, with or without prior programming experience. An entry-level course taught by David J. Malan",
       link: "https://www.edx.org/course/introduction-computer-science-harvardx-cs50x",
-    },   
+    },
+  {
+      courseName: "Learning advance Python",
+      brief: "Learning how to make virtual assistant like Alexa,siri,google assistant,cortana",
+      link: "https://youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME",
+    },    
   ];
