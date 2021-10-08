@@ -58,8 +58,8 @@ export const resourcesData = [
       courseName: "Editing in Premiere",
       brief: "Editing course from basic to advance.",
       link: "https://www.instagram.com/sub_savage/",
-    },   
-    {
+    },  
+  {
       courseName: "Django",
       brief: "Beginner friendly Django courses",
       link: "https://www.youtube.com/c/DennisIvy",
@@ -79,4 +79,9 @@ export const resourcesData = [
       brief: "This beginner-friendly course will teach you the basics of Python programming.",
       link: "https://www.youtube.com/watch?v=rfscVS0vtbw&t=13720s&ab_channel=freeCodeCamp.org",
     },
+   {
+      courseName: "Harvard- CS50's Introduction to Computer Science",
+      brief: "Harvard University's introduction to the intellectual enterprises of computer science and the art of programming for majors and non-majors alike, with or without prior programming experience. An entry-level course taught by David J. Malan",
+      link: "https://www.edx.org/course/introduction-computer-science-harvardx-cs50x",
+    },   
   ];
