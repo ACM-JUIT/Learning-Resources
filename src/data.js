@@ -79,6 +79,11 @@ export const resourcesData = [
       brief: "This beginner-friendly course will teach you the basics of Python programming.",
       link: "https://www.youtube.com/watch?v=rfscVS0vtbw&t=13720s&ab_channel=freeCodeCamp.org",
     },
+    {
+      courseName : "Learn Laravel - PHP Framework",
+      brief: "Best youtube channel to learn about PHP Laravel",
+      link: "https://www.youtube.com/c/LaravelDaily",
+    },
    {
       courseName: "Harvard- CS50's Introduction to Computer Science",
       brief: "Harvard University's introduction to the intellectual enterprises of computer science and the art of programming for majors and non-majors alike, with or without prior programming experience. An entry-level course taught by David J. Malan",
