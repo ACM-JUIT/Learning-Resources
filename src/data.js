@@ -80,6 +80,11 @@ export const resourcesData = [
       link: "https://www.youtube.com/watch?v=rfscVS0vtbw&t=13720s&ab_channel=freeCodeCamp.org",
     },
     {
+      courseName : "Java for Beginners to Advance",
+      brief: "This beginner-friendly course will teach you the basics of Java advanced programming.",
+      link: "https://www.udemy.com/course/java-programming-tutorial-for-beginners",
+    },
+  {
       courseName : "Learn Laravel - PHP Framework",
       brief: "Best youtube channel to learn about PHP Laravel",
       link: "https://www.youtube.com/c/LaravelDaily",
