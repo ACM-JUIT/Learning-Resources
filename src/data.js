@@ -107,6 +107,16 @@ export const resourcesData = [
    {
       courseName: "C Programming Tutorial for Beginners",
       brief: "This course will give you a full introduction into all of the core concepts in the C programming language.",
-      link: "https://www.youtube.com/watch?v=KJgsSFOSQv0&list=WL&index=14&t=11858s",
-    },    
+      link: "https://www.youtube.com/watch?v=KJgsSFOSQv0&list=WL&index=14&t=11858s",   
+    },
+  {
+      courseName: "Learning advance Python",
+      brief: "Learning how to make virtual assistant like Alexa,siri,google assistant,cortana",
+      link: "https://youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME",
+    },
+    {
+      courseName: "cP",
+      brief: "going from 5 to 1 stars in codechef in one month",
+      link: "",
+    },
   ];
