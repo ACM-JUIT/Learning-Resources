@@ -119,4 +119,9 @@ export const resourcesData = [
       brief: "going from 5 to 1 stars in codechef in one month",
       link: "",
     },
+    {
+      courseName: "Python lectures",
+      brief: "This course will give you a full introduction into all of the core concepts in the C programming language.",
+      link: "https://youtube.com/playlist?list=PL-J2q3Ga50oPE59ufy88MlzURR2CT8SKm",   
+    },
   ];
