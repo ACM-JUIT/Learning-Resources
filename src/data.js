@@ -108,5 +108,10 @@ export const resourcesData = [
       courseName: "Learning advance Python",
       brief: "Learning how to make virtual assistant like Alexa,siri,google assistant,cortana",
       link: "https://youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME",
-    },    
+    },
+    {
+      courseName: "cP",
+      brief: "going from 5 to 1 stars in codechef in one month",
+      link: "",
+    },
   ];
