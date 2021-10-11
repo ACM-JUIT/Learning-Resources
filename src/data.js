@@ -119,4 +119,9 @@ export const resourcesData = [
       brief: "going from 5 to 1 stars in codechef in one month",
       link: "",
     },
+{
+      courseName: "C language tutorial for beginners in hindi with notes",
+      brief: "This course is a 15 Hour long course which will teach you C language from the basics to the very end. There are practice sets included along with Free Handwritten notes ",
+      link: "https://www.youtube.com/watch?v=7Dh73z3icd8&list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR",
+    },
   ];
