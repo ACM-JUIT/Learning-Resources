@@ -119,4 +119,9 @@ export const resourcesData = [
       brief: "going from 5 to 1 stars in codechef in one month",
       link: "",
     },
+      {
+      courseName: "Java Programming",
+      brief: "Learn java from scratch to advance ",
+      link: "https://www.udemy.com/course/java-programming-complete-beginner-to-advanced/",
+    },
   ];
