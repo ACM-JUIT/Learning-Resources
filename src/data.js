@@ -120,6 +120,11 @@ export const resourcesData = [
       link: "",
     },
     {
+      courseName: "DPP",
+      brief: "Chem breif and assi.",
+      link: "",
+    },
+  {
       courseName: "JAVA",
       brief: "learn JAVA and become a JAVA developer",
       link: "youtube.com",
