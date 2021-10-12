@@ -119,6 +119,11 @@ export const resourcesData = [
       brief: "going from 5 to 1 stars in codechef in one month",
       link: "",
     },
+      {
+      courseName: "Java Programming",
+      brief: "Learn java from scratch to advance ",
+      link: "https://www.udemy.com/course/java-programming-complete-beginner-to-advanced/",
+    },
 {
       courseName: "C language tutorial for beginners in hindi with notes",
       brief: "This course is a 15 Hour long course which will teach you C language from the basics to the very end. There are practice sets included along with Free Handwritten notes ",
