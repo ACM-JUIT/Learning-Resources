@@ -124,4 +124,34 @@ export const resourcesData = [
       brief: "nice",
       link: "",
     },
+    {
+      courseName: "Python lectures",
+      brief: "This course will give you a full introduction into all of the core concepts in the C programming language.",
+      link: "https://youtube.com/playlist?list=PL-J2q3Ga50oPE59ufy88MlzURR2CT8SKm",   
+    },
+      {
+      courseName: "Java Programming",
+      brief: "Learn java from scratch to advance ",
+      link: "https://www.udemy.com/course/java-programming-complete-beginner-to-advanced/",
+    },
+{
+      courseName: "C language tutorial for beginners in hindi with notes",
+      brief: "This course is a 15 Hour long course which will teach you C language from the basics to the very end. There are practice sets included along with Free Handwritten notes ",
+      link: "https://www.youtube.com/watch?v=7Dh73z3icd8&list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR",
+    },
+    {
+      courseName: "DPP",
+      brief: "Chem breif and assi.",
+      link: "",
+    },
+  {
+      courseName: "JAVA",
+      brief: "learn JAVA and become a JAVA developer",
+      link: "youtube.com",
+    },
+     {
+      courseName: "Web development Course",
+      brief: "Learning Web development from scratch",
+      link: "https://www.youtube.com/watch?v=l1EssrLxt7E&list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n&index=1",
+    },
   ];
