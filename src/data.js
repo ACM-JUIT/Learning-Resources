@@ -109,6 +109,11 @@ export const resourcesData = [
       brief: "Harvard University's introduction to the intellectual enterprises of computer science and the art of programming for majors and non-majors alike, with or without prior programming experience. An entry-level course taught by David J. Malan",
       link: "https://www.edx.org/course/introduction-computer-science-harvardx-cs50x",
     },  
+  {
+      courseName : "JavaScript Tutorial",
+      brief: "This site teach you basics of javascript in an easy way",
+      link: "https://www.w3schools.com/js/",
+    }, 
    {
       courseName: "C Programming Tutorial for Beginners",
       brief: "This course will give you a full introduction into all of the core concepts in the C programming language.",
