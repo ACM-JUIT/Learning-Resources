@@ -119,4 +119,9 @@ export const resourcesData = [
       brief: "going from 5 to 1 stars in codechef in one month",
       link: "",
     },
+ {
+      courseName: "JAVA",
+      brief: "learn JAVA and become a JAVA developer",
+      link: "youtube.com",
+    },
   ];
