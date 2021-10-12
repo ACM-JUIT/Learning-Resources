@@ -124,4 +124,14 @@ export const resourcesData = [
       brief: "Chem breif and assi.",
       link: "",
     },
+  {
+      courseName: "JAVA",
+      brief: "learn JAVA and become a JAVA developer",
+      link: "youtube.com",
+    },
+     {
+      courseName: "Web development Course",
+      brief: "Learning Web development from scratch",
+      link: "https://www.youtube.com/watch?v=l1EssrLxt7E&list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n&index=1",
+    },
   ];
