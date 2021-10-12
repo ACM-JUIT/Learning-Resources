@@ -79,6 +79,11 @@ export const resourcesData = [
       brief: "This beginner-friendly course will teach you the basics of Python programming.",
       link: "https://www.youtube.com/watch?v=rfscVS0vtbw&t=13720s&ab_channel=freeCodeCamp.org",
     },
+    {
+      courseName: "Learn C++ Programming with harry",
+      brief: " basic c++ ",
+      link: "https://www.youtube.com/watch?v=yGB9jhsEsr8",
+  },
      {
       courseName : "python crash course",
       brief: "python course for exams",
