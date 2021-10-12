@@ -5,6 +5,11 @@ export const resourcesData = [
       link: "https://www.instagram.com/aarhan_._/",
     },
     {
+      courseName: "Docs Docs Docs",
+      brief: "docs docs docs docs docs docs docs",
+      link: "",
+    },
+    {
       courseName: "x",
       brief: "hello world",
       link: "https://www.tensorflow.org/",
@@ -53,8 +58,8 @@ export const resourcesData = [
       courseName: "Editing in Premiere",
       brief: "Editing course from basic to advance.",
       link: "https://www.instagram.com/sub_savage/",
-    },   
-    {
+    },  
+  {
       courseName: "Django",
       brief: "Beginner friendly Django courses",
       link: "https://www.youtube.com/c/DennisIvy",
@@ -78,5 +83,80 @@ export const resourcesData = [
       courseName: "Learn C++ Programming with harry",
       brief: " basic c++ ",
       link: "https://www.youtube.com/watch?v=yGB9jhsEsr8",
+  },
+     {
+      courseName : "python crash course",
+      brief: "python course for exams",
+      link: "https://youtu.be/jJkEc9d1Rwg",
+    },
+    {
+      courseName: "Game Development Courses",
+      brief: "This site teach you basic of game development and things req. to learn . You also take more knowledge in other fields of gaming.",
+      link: "https://www.futurelearn.com/subjects/it-and-computer-science-courses/game-development",
+    },
+  {
+      courseName : "Java for Beginners to Advance",
+      brief: "This beginner-friendly course will teach you the basics of Java advanced programming.",
+      link: "https://www.udemy.com/course/java-programming-tutorial-for-beginners",
+    },
+  {
+      courseName : "Learn Laravel - PHP Framework",
+      brief: "Best youtube channel to learn about PHP Laravel",
+      link: "https://www.youtube.com/c/LaravelDaily",
+    },
+   {
+      courseName: "Harvard- CS50's Introduction to Computer Science",
+      brief: "Harvard University's introduction to the intellectual enterprises of computer science and the art of programming for majors and non-majors alike, with or without prior programming experience. An entry-level course taught by David J. Malan",
+      link: "https://www.edx.org/course/introduction-computer-science-harvardx-cs50x",
+    },  
+   {
+      courseName: "C Programming Tutorial for Beginners",
+      brief: "This course will give you a full introduction into all of the core concepts in the C programming language.",
+      link: "https://www.youtube.com/watch?v=KJgsSFOSQv0&list=WL&index=14&t=11858s",   
+    },
+  {
+      courseName: "Learning advance Python",
+      brief: "Learning how to make virtual assistant like Alexa,siri,google assistant,cortana",
+      link: "https://youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME",
+    },
+    {
+      courseName: "cP",
+      brief: "going from 5 to 1 stars in codechef in one month",
+      link: "",
+    },
+     {
+      courseName: "android dev",
+      brief: "nice",
+      link: "",
+    },
+    {
+      courseName: "Python lectures",
+      brief: "This course will give you a full introduction into all of the core concepts in the C programming language.",
+      link: "https://youtube.com/playlist?list=PL-J2q3Ga50oPE59ufy88MlzURR2CT8SKm",   
+    },
+      {
+      courseName: "Java Programming",
+      brief: "Learn java from scratch to advance ",
+      link: "https://www.udemy.com/course/java-programming-complete-beginner-to-advanced/",
+    },
+{
+      courseName: "C language tutorial for beginners in hindi with notes",
+      brief: "This course is a 15 Hour long course which will teach you C language from the basics to the very end. There are practice sets included along with Free Handwritten notes ",
+      link: "https://www.youtube.com/watch?v=7Dh73z3icd8&list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR",
+    },
+    {
+      courseName: "DPP",
+      brief: "Chem breif and assi.",
+      link: "",
+    },
+  {
+      courseName: "JAVA",
+      brief: "learn JAVA and become a JAVA developer",
+      link: "youtube.com",
+    },
+     {
+      courseName: "Web development Course",
+      brief: "Learning Web development from scratch",
+      link: "https://www.youtube.com/watch?v=l1EssrLxt7E&list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n&index=1",
     },
   ];
