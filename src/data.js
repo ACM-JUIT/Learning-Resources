@@ -164,4 +164,9 @@ export const resourcesData = [
       brief: "Learning Web development from scratch",
       link: "https://www.youtube.com/watch?v=l1EssrLxt7E&list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n&index=1",
     },
+{
+      courseName: "C++",
+      brief: "Learning C++",
+      link: "https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ",
+    },
   ];
