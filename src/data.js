@@ -169,4 +169,9 @@ export const resourcesData = [
       brief: "Learning C++",
       link: "https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ",
     },
+{
+      courseName: "C course",
+      brief: "This is C programming course",
+      link: "https://www.instagram.com/yr.nitish/",
+    },
   ];
