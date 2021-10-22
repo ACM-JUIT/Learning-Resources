@@ -174,4 +174,9 @@ export const resourcesData = [
       brief: "This is C programming course",
       link: "https://www.instagram.com/yr.nitish/",
     },
+    {
+      courseName: "Python Course in One Video  ",
+      brief: "It is a 12 hours course covering major topics in python",
+      link: "https://youtu.be/WGJJIrtnfpk",
+    },
   ];
