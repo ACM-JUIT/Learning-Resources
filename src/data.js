@@ -174,4 +174,9 @@ export const resourcesData = [
       brief: "This is C programming course",
       link: "https://www.instagram.com/yr.nitish/",
     },
+    {
+      courseName: "Web development Course",
+      brief: "Learning Web development from scratch",
+      link: "https://www.youtube.com/watch?v=l1EssrLxt7E&list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n&index=1",
+    },
   ];
