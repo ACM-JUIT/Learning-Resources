@@ -179,4 +179,9 @@ export const resourcesData = [
       brief: "This course is a 15 Hour long course.",
       link: "https://www.youtube.com/watch?v=ZSPZob_1TOk&ab_channel=CodeWithHarry",
     },
+    {
+      courseName: "Python Course in One Video  ",
+      brief: "It is a 12 hours course covering major topics in python",
+      link: "https://youtu.be/WGJJIrtnfpk",
+    },
   ];
