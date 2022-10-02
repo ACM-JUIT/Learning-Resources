@@ -189,4 +189,9 @@ export const resourcesData = [
       brief: "A course for those who want to practice DSA in Python.",
       link: "https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12",
     },
+    {
+      courseName: "Spring Boot GOD ",
+      brief: "All in one package for SpringBoot.",
+      link: "https://www.youtube.com/c/DailyCodeBuffer",
+    }
   ];
