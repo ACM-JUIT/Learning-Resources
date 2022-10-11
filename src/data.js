@@ -8,5 +8,11 @@ export const resourcesData = [
     courseName: "DSA in Python",
     brief: "A course for those who want to practice DSA in Python.",
     link: "https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12",
+  },
+  {
+    courseName : "C++ Complete DSA Course",
+    brief: "Learn C++ from basic to advance level",
+    link : "https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA",
   }
+
 ];
