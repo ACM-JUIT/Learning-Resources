@@ -8,5 +8,10 @@ export const resourcesData = [
     courseName: "DSA in Python",
     brief: "A course for those who want to practice DSA in Python.",
     link: "https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12",
-  }
+  },
+  {
+    courseName: "C Course in One Shot",
+    brief: "A 10.5 hours course covering major portion of C language",
+    link: "https://www.youtube.com/watch?v=irqbmMNs2Bo&ab_channel=ApnaCollege",
+  },
 ];
