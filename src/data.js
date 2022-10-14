@@ -39,4 +39,9 @@ export const resourcesData = [
       brief: "Learn C language and become a software developer",
       link: "https://www.programiz.com/c-programming",
     },   
+    {
+      courseName: "Python Programming",
+      brief: "Learn Python programming from zero.",
+      link: "https://www.udemy.com/course/complete-python-bootcamp/",
+    },   
   ];
