@@ -59,13 +59,15 @@ export const resourcesData = [
     brief: "A 10.5 hours course covering major portion of C language",
     link: "https://youtu.be/irqbmMNs2Bo",
   },
+  {
     courseName: "ReactJS Tutorial",
     brief: "A 90 Video extensive course for those who want to learn ReactJS from beginning to advance",
     link: "https://www.youtube.com/watch?v=tiLWCNFzThE&list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ",
-  },
-  {
-    courseName: "DSA in java",
-    brief: "A course for those who want to learn DSA",
-    link: "https://www.youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p",
-  }
+ },
+ {
+  courseName: "DSA in java",
+  brief: "A course for those who wants to learn DSA in java",
+  link: "https://www.youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p",
+}
+  
 ];
