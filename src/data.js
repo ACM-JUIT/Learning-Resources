@@ -64,8 +64,8 @@ export const resourcesData = [
     link: "https://www.youtube.com/watch?v=tiLWCNFzThE&list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ",
   },
   {
-    courseName: "Java by CodeWithHarry",
-    brief: "Basic of java Programming",
-    link: "https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q",
+    courseName: "DSA in java",
+    brief: "A course for those who want to learn DSA",
+    link: "https://www.youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p",
   }
 ];
