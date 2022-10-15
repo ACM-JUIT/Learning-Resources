@@ -68,6 +68,10 @@ export const resourcesData = [
   courseName: "DSA in java",
   brief: "A course for those who wants to learn DSA in java",
   link: "https://www.youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p",
-}
-  
+},
+{
+  courseName: "c++ in one shot",
+  brief: "A course for students to learn c++",
+  link: "https://youtu.be/yGB9jhsEsr8",
+},
 ];
