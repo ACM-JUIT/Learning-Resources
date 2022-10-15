@@ -55,6 +55,10 @@ export const resourcesData = [
     link: "https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12",
   },
   {
+    courseName: "C Course in One Shot",
+    brief: "A 10.5 hours course covering major portion of C language",
+    link: "https://youtu.be/irqbmMNs2Bo",
+  },
     courseName: "ReactJS Tutorial",
     brief: "A 90 Video extensive course for those who want to learn ReactJS from beginning to advance",
     link: "https://www.youtube.com/watch?v=tiLWCNFzThE&list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ",
