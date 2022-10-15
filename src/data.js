@@ -62,5 +62,10 @@ export const resourcesData = [
     courseName: "ReactJS Tutorial",
     brief: "A 90 Video extensive course for those who want to learn ReactJS from beginning to advance",
     link: "https://www.youtube.com/watch?v=tiLWCNFzThE&list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ",
+  },
+  {
+    courseName: "Java by CodeWithHarry",
+    brief: "Java Basic Programming",
+    link: "https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q",
   }
 ];
