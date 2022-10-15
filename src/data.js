@@ -65,7 +65,7 @@ export const resourcesData = [
   },
   {
     courseName: "Java by CodeWithHarry",
-    brief: "Java Basic Programming",
+    brief: "Basic of java Programming",
     link: "https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q",
   }
 ];
