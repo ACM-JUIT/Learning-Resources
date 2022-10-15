@@ -12,6 +12,6 @@ export const resourcesData = [
   {
     courseName: "C Course in One Shot",
     brief: "A 10.5 hours course covering major portion of C language",
-    link: "https://www.youtube.com/watch?v=irqbmMNs2Bo&ab_channel=ApnaCollege",
+    link: "https://youtu.be/irqbmMNs2Bo",
   },
 ];
