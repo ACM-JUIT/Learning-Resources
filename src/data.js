@@ -74,4 +74,9 @@ export const resourcesData = [
   brief: "A course for students to learn c++",
   link: "https://youtu.be/yGB9jhsEsr8",
 },
+{
+  courseName: "MySQL",
+  brief: "A course for those who want to learn RDBMS(Relation Databases Management System)",
+  link: "https://youtu.be/o8B8X3qPcRQ?list=PLmRclvVt5DtlM3Ef8ERo4sVVk-yTvSzX5",
+},
 ];
