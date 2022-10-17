@@ -68,7 +68,7 @@ export const resourcesData = [
   courseName: "DSA in java",
   brief: "A course for those who wants to learn DSA in java",
   link: "https://www.youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p",
-},
+ },
 {
   courseName: "c++ in one shot",
   brief: "A course for students to learn c++",
@@ -78,5 +78,10 @@ export const resourcesData = [
   courseName: "MySQL",
   brief: "A course for those who want to learn RDBMS(Relation Databases Management System)",
   link: "https://youtu.be/o8B8X3qPcRQ?list=PLmRclvVt5DtlM3Ef8ERo4sVVk-yTvSzX5",
+},
+{
+  courseName: "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)",
+  brief: "A course for those who wants to learn NodeJs",
+  link: "https://www.udemy.com/course/nodejs-the-complete-guide/",
 },
 ];
