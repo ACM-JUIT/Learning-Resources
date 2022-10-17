@@ -70,11 +70,13 @@ export const resourcesData = [
   link: "https://www.youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p",
 },
 {
+  courseName: "c++ in one shot",
+  brief: "A course for students to learn c++",
+  link: "https://youtu.be/yGB9jhsEsr8",
+},
+{
   courseName: "MySQL",
   brief: "A course for those who want to learn RDBMS(Relation Databases Management System)",
   link: "https://youtu.be/o8B8X3qPcRQ?list=PLmRclvVt5DtlM3Ef8ERo4sVVk-yTvSzX5",
 },
-
-
-  
 ];
