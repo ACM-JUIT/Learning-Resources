@@ -90,4 +90,10 @@ export const resourcesData = [
   brief: "A course for those who wants to learn NodeJs",
   link: "https://www.udemy.com/course/nodejs-the-complete-guide/",
 },
+{
+  courseName: "JAVA COMPLETE COURSE BY CODE WITH HARRY",
+  brief: " COMPLETE JAVA COURSE ",
+  link: "https://www.youtube.com/watch?v=ntLJmHOJ0ME&list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q",
+},
+
 ];
