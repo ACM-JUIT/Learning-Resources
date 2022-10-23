@@ -8,7 +8,12 @@ export const resourcesData = [
       courseName: "x",
       brief: "hello world",
       link: "https://www.tensorflow.org/",
-    },     
+    },    
+    {
+      courseName: "Flutter",
+      brief: "Basics of Flutter in 3 hours",
+      link: "https://www.youtube.com/watch?v=CD1Y2DmL5JM",
+    },  
     {
       courseName: "Python- roadmap to AI and ML",
       brief: "Python from basic to advance level and later diving into AI and ML",
