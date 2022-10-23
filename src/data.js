@@ -80,6 +80,12 @@ export const resourcesData = [
   link: "https://youtu.be/o8B8X3qPcRQ?list=PLmRclvVt5DtlM3Ef8ERo4sVVk-yTvSzX5",
 },
 {
+  courseName: "HTML",
+  brief: "A course for students to learn HTML",
+  link: "https://www.youtube.com/watch?v=BsDoLVMnmZs",
+},
+    
+{
   courseName: "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)",
   brief: "A course for those who wants to learn NodeJs",
   link: "https://www.udemy.com/course/nodejs-the-complete-guide/",
