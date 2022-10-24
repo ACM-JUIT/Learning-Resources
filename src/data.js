@@ -101,6 +101,11 @@ export const resourcesData = [
   link: "https://www.w3schools.com/java/default.asp",
 },
 {
+  courseName: "HTML Course on Apna College ",
+  brief: "HTML Tutorial for Beginners.",
+  link: "https://youtu.be/HcOc7P5BMi4",
+},
+{
   courseName: "JAVA COMPLETE COURSE BY CODE WITH HARRY",
   brief: " COMPLETE JAVA COURSE ",
   link: "https://www.youtube.com/watch?v=ntLJmHOJ0ME&list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q",
