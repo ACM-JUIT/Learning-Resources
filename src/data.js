@@ -96,9 +96,13 @@ export const resourcesData = [
   link: "https://www.udemy.com/course/nodejs-the-complete-guide/",
 },
 {
+  courseName: "Java Tutorial on W3Schools",
+  brief: "Text based tutorial to java complete with examples and easy to do excercises to learn basics of java completely.",
+  link: "https://www.w3schools.com/java/default.asp",
+},
+{
   courseName: "JAVA COMPLETE COURSE BY CODE WITH HARRY",
   brief: " COMPLETE JAVA COURSE ",
   link: "https://www.youtube.com/watch?v=ntLJmHOJ0ME&list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q",
 },
-
 ];
