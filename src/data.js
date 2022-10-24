@@ -101,6 +101,11 @@ export const resourcesData = [
   link: "https://www.w3schools.com/java/default.asp",
 },
 {
+  courseName: "cyber security",
+  brief: "free online platform for learning cyber security",
+  link: "https://tryhackme.com/",
+},
+{
   courseName: "JAVA COMPLETE COURSE BY CODE WITH HARRY",
   brief: " COMPLETE JAVA COURSE ",
   link: "https://www.youtube.com/watch?v=ntLJmHOJ0ME&list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q",
