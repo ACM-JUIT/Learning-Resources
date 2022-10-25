@@ -115,4 +115,9 @@ export const resourcesData = [
   brief: " SAB KUCH ",
   link: "https://www.tutorialspoint.com/tutorialslibrary.htm",
 },
+{
+  courseName: "SQL Explain Plans",
+  brief: "Understand the need and working of Explain Plans in SQL",
+  link: "https://docs.oracle.com/cd/B10501_01/server.920/a96533/ex_plan.htm",
+},
 ];
