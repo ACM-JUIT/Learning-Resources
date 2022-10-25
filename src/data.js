@@ -105,4 +105,9 @@ export const resourcesData = [
   brief: " COMPLETE JAVA COURSE ",
   link: "https://www.youtube.com/watch?v=ntLJmHOJ0ME&list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q",
 },
+{
+  courseName: "Just EVERYTHING",
+  brief: " SAB KUCH ",
+  link: "https://www.geeksforgeeks.org/",
+},
 ];
