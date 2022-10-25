@@ -111,6 +111,11 @@ export const resourcesData = [
   link: "https://www.geeksforgeeks.org/",
 },
 {
+  courseName: "JAVA",
+  brief: "Tutorial of JAVA for beginners",
+  link: "https://www.youtube.com/watch?v=ntLJmHOJ0ME&list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q",
+},
+{
   courseName: "Just EVERYTHING again",
   brief: " SAB KUCH ",
   link: "https://www.tutorialspoint.com/tutorialslibrary.htm",
