@@ -110,4 +110,9 @@ export const resourcesData = [
   brief: " SAB KUCH ",
   link: "https://www.geeksforgeeks.org/",
 },
+{
+  courseName: "Just EVERYTHING again",
+  brief: " SAB KUCH ",
+  link: "https://www.tutorialspoint.com/tutorialslibrary.htm",
+},
 ];
