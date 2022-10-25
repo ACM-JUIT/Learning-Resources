@@ -101,6 +101,11 @@ export const resourcesData = [
   link: "https://www.w3schools.com/java/default.asp",
 },
 {
+  courseName: "Data Structures & Algorithms in Java",
+  brief: " COMPLETE DSA COURSE WITH JAVA ",
+  link: "https://www.mygreatlearning.com/academy/learn-for-free/courses/data-structures-and-algorithms-in-java",
+},
+{
   courseName: "JAVA COMPLETE COURSE BY CODE WITH HARRY",
   brief: " COMPLETE JAVA COURSE ",
   link: "https://www.youtube.com/watch?v=ntLJmHOJ0ME&list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q",
