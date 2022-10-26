@@ -115,4 +115,9 @@ export const resourcesData = [
   brief: " SAB KUCH ",
   link: "https://www.tutorialspoint.com/tutorialslibrary.htm",
 },
+{
+  courseName: "Complete Git and GitHub Tutorial",
+  brief: " Course for learning git and github essentials ",
+  link: "https://www.youtube.com/watch?v=apGV9Kg7ics&t=373s",
+},
 ];
