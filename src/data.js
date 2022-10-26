@@ -117,7 +117,7 @@ export const resourcesData = [
 },
 {
   courseName: "JAVA COMPLETE COURSE",
-  brief: "COMPLETE JAVA COURSE ",
+  brief: "COMPLETE JAVA COURSE",
   link: "https://youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop",
 },
 ];
