@@ -115,4 +115,9 @@ export const resourcesData = [
   brief: " SAB KUCH ",
   link: "https://www.tutorialspoint.com/tutorialslibrary.htm",
 },
+{
+  courseName: "DBMS",
+  brief: "A course for those who want to learn DBMS(Databases Management System)",
+  link: "https://youtu.be/T7AxM7Vqvaw",
+},
 ];
