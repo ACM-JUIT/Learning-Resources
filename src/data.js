@@ -115,4 +115,9 @@ export const resourcesData = [
   brief: " SAB KUCH ",
   link: "https://www.tutorialspoint.com/tutorialslibrary.htm",
 },
+{
+  courseName: "DYNAMIC PROGRAMMING SERIES BY STRIVER",
+  brief: "Practice & learn DP",
+  link: "https://www.youtube.com/watch?v=FfXoiwwnxFw&list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY&index=2&ab_channel=takeUforward",
+},
 ];
