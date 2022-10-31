@@ -115,4 +115,9 @@ export const resourcesData = [
   brief: " SAB KUCH ",
   link: "https://www.tutorialspoint.com/tutorialslibrary.htm",
 },
+{
+  courseName: "Learn Python 3",
+  brief: "Python for beginners",
+  link: "https://www.codecademy.com/learn/learn-python-3",
+},
 ];
