@@ -115,4 +115,9 @@ export const resourcesData = [
   brief: " SAB KUCH ",
   link: "https://www.tutorialspoint.com/tutorialslibrary.htm",
 },
+{
+  courseName: "Namaste Javascript by Akshay Saini",
+  brief: "Namaste JavaScript is a pure in-depth JavaScript Course, covering the core concepts of JavaScript in detail.",
+  link: "https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP",
+},
 ];
