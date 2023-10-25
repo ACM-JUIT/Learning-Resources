@@ -115,4 +115,9 @@ export const resourcesData = [
   brief: " SAB KUCH ",
   link: "https://www.tutorialspoint.com/tutorialslibrary.htm",
 },
+{
+  courseName: "Test PR for GitHub Actions",
+  brief: "TEST",
+  link: "https://google.com",
+},
 ];
